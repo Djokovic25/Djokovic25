@@ -26,7 +26,7 @@ Currently working on developing a trustworthy Multimodal VQA framework for GI en
 
 *<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Siemens-logo.svg" alt="Siemens" width="100"/>*  
 
-*June 2025 - July 2026* 
+*June 2025 - July 2025* 
 
 Focused on 3D Point Cloud Segmentation and volumetric data visualization. Developed a deep learning-based pipeline using Open3D, TensorFlow, and PyTorch to segment point cloud data into 3D figures compatible with Siemens NX.
 
